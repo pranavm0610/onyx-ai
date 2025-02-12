@@ -1,0 +1,5 @@
+geopandas
+geemap
+earthengine-api
+fpdf
+contextily
